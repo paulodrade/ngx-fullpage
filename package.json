@@ -93,7 +93,7 @@
     "zone.js": ">=0.8.10"
   },
   "peerDependencies": {
-    "@angular/core": ">=4.*"
+    "@angular/core": ">=4.2.4"
   },
   "maintainers": [
     {
