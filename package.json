@@ -67,7 +67,7 @@
     "@angular/core": ">=4.*",
     "@angular/platform-browser": ">=4.*",
     "@angular/platform-browser-dynamic": ">=4.*",
-    "@angular/router": ">=4.*",
+    "@angular/router": ">=4.3.3",
     "@types/jasmine": "2.5.49",
     "@types/jquery": "^2.0.43",
     "@types/node": "^7.0.18",
