@@ -64,7 +64,7 @@
     "@angular/common": ">=4.*",
     "@angular/compiler": ">=4.*",
     "@angular/compiler-cli": ">=4.*",
-    "@angular/core": ">=4.*",
+    "@angular/core": ">=4.4.2",
     "@angular/platform-browser": ">=4.*",
     "@angular/platform-browser-dynamic": ">=4.*",
     "@angular/router": ">=4.*",
